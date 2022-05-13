@@ -164,11 +164,11 @@
 
     <ImageView
         android:id="@+id/imageView16"
-        android:layout_width="140dp"
-        android:layout_height="90dp"
+        android:layout_width="160dp"
+        android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.169"
+        app:layout_constraintHorizontal_bias="0.167"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.402"
@@ -176,11 +176,11 @@
 
     <ImageView
         android:id="@+id/imageView18"
-        android:layout_width="140dp"
-        android:layout_height="90dp"
+        android:layout_width="160dp"
+        android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.841"
+        app:layout_constraintHorizontal_bias="0.873"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.402"
@@ -224,7 +224,7 @@
 
     <RatingBar
         android:id="@+id/ratingBar2"
-        style="@android:style/Widget.Holo.RatingBar.Small"
+        style="@android:style/Widget.Material.RatingBar.Small"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:numStars="5"
@@ -238,7 +238,7 @@
 
     <RatingBar
         android:id="@+id/ratingBar3"
-        style="@android:style/Widget.Holo.RatingBar.Small"
+        style="@android:style/Widget.Material.RatingBar.Small"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:numStars="5"
