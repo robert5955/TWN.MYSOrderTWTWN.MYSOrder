@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Order">
         <activity
+            android:name=".Dessert"
+            android:exported="false" />
+        <activity
             android:name=".Meat"
             android:exported="false" />
         <activity
