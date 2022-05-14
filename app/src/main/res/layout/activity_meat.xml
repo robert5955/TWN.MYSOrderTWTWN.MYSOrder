@@ -12,7 +12,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#EC8D6F"
+        android:background="@drawable/chicken"
         tools:context=".Meat">
 
         <TextView
@@ -242,6 +242,7 @@
             android:id="@+id/btnBack3"
             android:layout_width="114dp"
             android:layout_height="50dp"
+            android:background="#FFFFFF"
             android:text=" 返回上一頁"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
