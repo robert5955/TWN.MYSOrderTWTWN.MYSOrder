@@ -224,7 +224,7 @@
             android:id="@+id/textView24"
             android:layout_width="106dp"
             android:layout_height="43dp"
-            android:background="#D891FF"
+            android:background="#FFFFFF"
             android:text="葷食區"
             android:textAllCaps="true"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"

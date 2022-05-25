@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#EC8D6F"
+    android:background="@drawable/vegetar"
     tools:context=".Vege">
 
     <TextView
         android:id="@+id/textView9"
         android:layout_width="106dp"
         android:layout_height="43dp"
-        android:background="#D891FF"
+        android:background="#FFFFFF"
         android:text="素食區"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
@@ -29,6 +29,7 @@
         android:id="@+id/btnBack"
         android:layout_width="114dp"
         android:layout_height="50dp"
+        android:background="#FFFFFF"
         android:text=" 返回上一頁"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
