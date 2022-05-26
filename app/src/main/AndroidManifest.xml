@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Order">
         <activity
+            android:name=".Fried"
+            android:exported="false" />
+        <activity
+            android:name=".Fastfood"
+            android:exported="false" />
+        <activity
+            android:name=".Drink"
+            android:exported="false" />
+        <activity
             android:name=".Dessert"
             android:exported="false" />
         <activity
