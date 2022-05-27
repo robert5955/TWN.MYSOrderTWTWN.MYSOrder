@@ -251,7 +251,7 @@
         android:orientation="vertical"
         app:layout_constraintBottom_toTopOf="@+id/textView68"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.228"
+        app:layout_constraintHorizontal_bias="0.24"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView58"
         app:layout_constraintVertical_bias="0.144">
@@ -293,10 +293,10 @@
         android:orientation="vertical"
         app:layout_constraintBottom_toTopOf="@+id/textView76"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.259"
+        app:layout_constraintHorizontal_bias="0.253"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView68"
-        app:layout_constraintVertical_bias="0.187">
+        app:layout_constraintVertical_bias="0.177">
 
         <LinearLayout
             android:id="@+id/linearLayout4"
